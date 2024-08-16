@@ -31,3 +31,4 @@ console.log(test)
  let test1= null
  console.log(test1)
  console.log(typeof(test1))
+ console.log(typeof(test1))

@@ -1,4 +1,4 @@
-const Person=require('./basic5')
+const Person= require('./basic5')
 const { time } = require("console")
 const { runInThisContext } = require("vm")
 
@@ -94,4 +94,6 @@ for(let key in person)
 }
 
 let person3=new Person('seema','test')
+console.log(person3.firstname)
+console.log(person3.firstname)
 console.log(person3.firstname)
