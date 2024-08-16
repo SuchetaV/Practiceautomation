@@ -15,6 +15,9 @@
  let sum2=(m,n) => m+n
 
  console.log(sum2(12,15))
+ console.log(sum2(12,15))
+ console.log(sum2(12,15))
+ console.log(sum2(12,15))
 
 
  
