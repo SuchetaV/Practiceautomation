@@ -1,4 +1,4 @@
-module.exports=class Person{
+module.exports = class Person{
 
 firstname='sucheta'
 lastname='Vyavahare'
